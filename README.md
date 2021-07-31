@@ -2,6 +2,10 @@
 
 This was a project that I've been working on but stopped working on it because I wasn't motivated to do it anymore.
 
+Uses:
+- [LWJGL 2.9.3](https://legacy.lwjgl.org)
+- [Slick-Utils](http://slick.ninjacave.com/slick-util/)
+
 This includes
 - First Person movement
 - Drectional lighting
